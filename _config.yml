@@ -16,10 +16,11 @@
 title: UWINGS TECHNOLOGY CO., LTD.
 email: jason@uwingstech.com
 description: >- # this means to ignore newlines until "baseurl:"
-    UWings provide embedded system consultion for you.
+    UWINGS provide your best embedded system consulting.
+    include Linux/Windows/Android/FreeRTOS.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.uwingstech.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
