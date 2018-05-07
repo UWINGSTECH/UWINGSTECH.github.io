@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## Our website is still under construction
-Contact by email, Please!
-<a href="mailto:jason@uwingstech.com" title="jason@uwingstech.com">jason@uwingstech.com</a>
-### Uwings Technology Co. LTD.
+## Welcome visit UWINGS TECHNOLOGY CO. LTD.
+
+Our website is still under construction
+So please contact by email, thank you!
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
