@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## Welcome visit UWINGS TECHNOLOGY CO. LTD.
+Welcome visit UWINGS TECHNOLOGY CO. LTD.
 
 Our website is still under construction
 So please contact by email, thank you!
